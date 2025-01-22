@@ -1,4 +1,5 @@
 ## Hi there 👋
+Im a first year biomedical engineering student at Imperial College London. Im looking to develop my coding and data analytics skills so any help is appreciated.
 
 <!--
 **Tzekhai-2005/Tzekhai-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
